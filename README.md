@@ -7,6 +7,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, Python, and Clou
 - Advanced Python Course  at Islamia College University, Peshawar (NAVTTC Program)
 - Cloud Native Applied Generative AI Engineering at CECOS University, Peshawar (PIAIC Program)
 
+💻 **Certifications**:  
 - Meta Front End Developer Specialization  
 - Meta React Native Developer Specialization  
   *(These were my first loves, but after discovering Machine Learning, Python, and AI, I found a new passion!)*
